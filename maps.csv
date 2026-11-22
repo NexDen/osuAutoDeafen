@@ -1,0 +1,9 @@
+# buraya ilk map idsini yazın
+# sonra virgül sonra kaç kombo veya mapin yüzde kaçında deafen atmasını istediğinizi yazın
+# c ile biterse combo, p ile biterse yüzdelik
+# örn: 50c = 50 kombo, 40p = mapin %40'ı
+# ilk satıra sadece default durumu yazın
+50p
+3648544, 120c
+3666536, 10p
+4207215, 200c
